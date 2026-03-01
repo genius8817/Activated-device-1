@@ -16,5 +16,11 @@
         "key": "Genius",
         "expirydate": "28-12-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "df65b7fcd42885df",
+        "key": "GENIUSXSK",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
     }
 ]
